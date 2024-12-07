@@ -1,6 +1,7 @@
 # PWF_Guatemala-Honduras-CostaRica_LHCb-Open-Data
 
-Repository for the Physics Without Frontiers Guatemala Honduras Costa Rica: Reading and Manipulating  the LHCb Open Data
+Repository for the Physics Without Frontiers Guatemala Honduras Costa Rica: Reading and Manipulating  the LHCb Open Data.
+[Indico website](https://indico.ictp.it/event/10914/)
 
 To get started go to the file Getting_started.pdf where you will find information about how to create a conda environment where all the python libraries will be installed.
 
